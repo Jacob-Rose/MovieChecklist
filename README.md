@@ -24,7 +24,7 @@ Movie Checklist was an attempt at using web api's in an application under UWP. T
 
 - Learned how to implement a web API in a client based program
 - Ability to procedurally load movies after app start and create scrollable list that expands
-- 
+
 ## Screenshots
 
 Home Screen
